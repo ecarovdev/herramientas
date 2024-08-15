@@ -27,6 +27,11 @@ https://fonts.google.com/
 
 # CSS
 
+# Tem-plates Tailwindscss
+
+* https://www.tailwindtoolbox.com/tools
+
+  
 # Privado
 
 Bitbucket
@@ -57,3 +62,6 @@ https://www.gitkraken.com/
 
 cmder
 https://cmder.app/
+
+
+
