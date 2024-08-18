@@ -1,6 +1,7 @@
 # Herramientas de Desarrollo de Software
 
 Son herramientas para Fullstack, divididas entre Frontend, Backend y las que ayudan en su relacion.
+Contiene los roadmap, en las areas que es posible indicarlas.
 
 # Visual Studio
 # Consola
