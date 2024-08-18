@@ -1,10 +1,100 @@
-# Herramientas
+# Herramientas de Desarrollo de Software
 Herramientas para Desarrollo
 
 # Visual Studio
-* Angular
-* Nextjs
 
+# Developer Roadmaps
+ * https://roadmap.sh/
+
+# Full Stack Developer
+ Roadmap
+ * https://roadmap.sh/full-stack
+
+# Typescript 
+ Roadmap
+ * https://roadmap.sh/typescript
+
+   
+# Frontend
+
+# Framework
+
+* Angular
+
+  Roadmap
+  * https://roadmap.sh/angular
+    
+  Librerias
+  * https://primeng.org/
+
+* React
+
+  Roadmap
+  * https://roadmap.sh/react
+
+    
+* Next.js
+
+  Roadmap
+  
+   Librerias
+    Tailwind UI
+    * https://tailwindui.com/
+    * https://ui.shadcn.com/
+    * https://www.npmjs.com/package/clsx
+    * https://www.npmjs.com/package/tailwind-merge
+
+   Manejador de estados
+   * https://github.com/pmndrs/zustand
+
+  Componente Select
+  * https://react-select.com/home
+
+  Reack Hook Form
+  * https://react-hook-form.com/
+
+  Validacion de datos
+  * https://zod.dev/
+
+  Componentes
+  * https://primereact.org/
+
+   Tabla
+   * https://tanstack.com/table/latest
+
+   Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
+   * https://react-dropzone.js.org/
+
+   Autorizacion en Nextjs para redes sociales
+   * https://next-auth.js.org/
+
+   Toaster
+   * https://sonner.emilkowal.ski/
+   * https://sweetalert2.github.io/
+   
+   A modular toolkit for building drag & drop interfaces.
+   * https://dndkit.com/
+   
+   Documentar
+   * https://storybook.js.org/
+
+ ## LIbrerias JS
+  Tiempo
+  * https://momentjs.com/
+
+  Graficas
+  * https://www.chartjs.org/
+  * https://echarts.apache.org/en/index.html
+
+  Texto
+  * https://www.quill.org/
+ 
+ 
+ # API
+ Roadmap
+ * https://roadmap.sh/api-design
+
+   
 # Diseño UX/UI
 
 UX (user experience) y UI (user interface) son términos que se refieren a la experiencia y las sensaciones del usuario cuando utiliza un producto o servicio. UX engloba la experiencia, mientras que UI está relacionada con la interfaz que un usuario utiliza para obtener un resultado.
@@ -27,7 +117,7 @@ https://fonts.google.com/
 
 # CSS
 
-# Tem-plates Tailwindscss
+# Templates Tailwindscss
 
 * https://www.tailwindtoolbox.com/tools
 
@@ -38,21 +128,32 @@ Bitbucket
 https://bitbucket.org/product/
 
 # Git
+ Roadmap
+ * https://roadmap.sh/git-github
+
+
 * No es un backup
 * Trabajo colaborativo
 * Profecionalizar
 * Siempre trabajamos con la ultima version
   
-Readme.md
+### Readme.md
+
 https://www.profileme.dev/create-profile
 https://pandao.github.io/editor.md/en.html
 https://leviarista.github.io/github-profile-header-generator/
 
-Templates de Readme.md
+### Templates de Readme.md
+
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
 
-Utilerias en General
+### Utilerias en General
+
 https://github.com/CondorCoders/github-readme-profile?tab=readme-ov-file
+
+# GitLab
+
+https://about.gitlab.com/
 
 # IDE GitKraken
 
@@ -64,4 +165,24 @@ cmder
 https://cmder.app/
 
 
+# Backend
+ Roadmap
+ * https://roadmap.sh/backend
+
+## SQL
+ Roadmap
+ * https://roadmap.sh/sql
+
+
+# Node.js
+ Roadmap
+ * https://roadmap.sh/nodejs
+
+# Docker
+ Roadmap
+ * https://roadmap.sh/docker
+
+# Kubernets
+ Roadmap
+ * https://roadmap.sh/kubernetes
 
