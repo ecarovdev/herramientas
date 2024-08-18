@@ -1,7 +1,11 @@
 # Herramientas de Desarrollo de Software
-Herramientas para Desarrollo
+
+Son herramientas para Fullstack, divididas entre Frontend, Backend y las que ayudan en su relacion.
 
 # Visual Studio
+# Consola
+  cmder
+  * https://cmder.app/
 
 # Developer Roadmaps
  * https://roadmap.sh/
@@ -17,9 +21,9 @@ Herramientas para Desarrollo
    
 # Frontend
 
-# Framework
+## Framework [ ecosistema ]
 
-* Angular
+### Angular
 
   Roadmap
   * https://roadmap.sh/angular
@@ -27,13 +31,13 @@ Herramientas para Desarrollo
   Librerias
   * https://primeng.org/
 
-* React
+### React
 
   Roadmap
   * https://roadmap.sh/react
 
     
-* Next.js
+### Next.js [ecosistema]
 
   Roadmap
   
@@ -78,7 +82,7 @@ Herramientas para Desarrollo
    Documentar
    * https://storybook.js.org/
 
- ## LIbrerias JS
+ ### LIbrerias JS
   Tiempo
   * https://momentjs.com/
 
@@ -88,12 +92,6 @@ Herramientas para Desarrollo
 
   Texto
   * https://www.quill.org/
- 
- 
- # API
- Roadmap
- * https://roadmap.sh/api-design
-
    
 # Diseño UX/UI
 
@@ -127,7 +125,13 @@ https://fonts.google.com/
 Bitbucket
 https://bitbucket.org/product/
 
-# Git
+# API
+ Roadmap
+ * https://roadmap.sh/api-design
+
+# Manejo de versiones
+
+## Git
  Roadmap
  * https://roadmap.sh/git-github
 
@@ -151,19 +155,13 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/
 
 https://github.com/CondorCoders/github-readme-profile?tab=readme-ov-file
 
-# GitLab
+## GitLab
 
 https://about.gitlab.com/
 
-# IDE GitKraken
+## IDE GitKraken
 
 https://www.gitkraken.com/
-
-# Consola
-
-cmder
-https://cmder.app/
-
 
 # Backend
  Roadmap
