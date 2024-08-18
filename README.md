@@ -3,7 +3,16 @@
 Son herramientas para Fullstack, divididas entre Frontend, Backend y las que ayudan en su relacion.
 Contiene los roadmap, en las areas que es posible indicarlas.
 
+# Patrones
+Varios frameworks
+* https://www.patterns.dev/
+
 # Visual Studio
+
+# chrome
+  * React Developer Tools
+  * Angular Developer
+
 # Consola
   cmder
   * https://cmder.app/
